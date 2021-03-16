@@ -1,2 +1,2 @@
-# http://calculatordemo
+# calculatordemo
 demo calculator
